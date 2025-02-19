@@ -26,7 +26,7 @@ h1 {
     text-align: center;
 }
 
-#game-container {
+#gameContainer {
     display: grid;
     grid-template-columns: repeat(4, 100px);
     grid-gap: 10px;
